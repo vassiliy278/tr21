@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: Vassiliy Smith -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14mm" height="14mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20000 20000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:rgba(89, 154, 248)}
+    .fil3 {fill:#fff}
+    .fil0 {fill:black;fill-opacity:0.101961}
+    .fil1 {fill:white;fill-opacity:0.101961}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2190800996368">
+   <g>
+    <path class="fil0" d="M18639 11250c631,687 990,1596 606,2506 -418,991 -1472,1384 -2474,1417 -2373,79 -1769,-121 -3753,1184 -1805,1187 -4037,142 -3769,-2148 236,-2026 494,-4050 735,-6076 129,-1089 361,-2286 1562,-2667 1166,-369 2182,398 2925,1209 1393,1522 2772,3056 4168,4575z"/>
+    <path class="fil1" d="M17561 12241c-1399,-1522 -2775,-3053 -4170,-4577 -682,-744 -1115,-893 -1403,-802 -288,91 -429,423 -550,1443 -240,2023 -499,4053 -735,6074 -126,1077 785,1232 1511,755 2257,-1485 1808,-1334 4509,-1424 1017,-34 1661,-573 838,-1469z"/>
+   </g>
+   <path class="fil2" d="M11575 8968c631,686 990,1596 606,2506 -418,990 -1471,1384 -2474,1417 -2373,79 -1769,-121 -3752,1184 -1806,1187 -4038,141 -3770,-2148 237,-2027 495,-4051 735,-6077 129,-1088 361,-2285 1562,-2666 1166,-370 2182,398 2925,1209 1393,1522 2772,3056 4168,4575z"/>
+   <path class="fil3" d="M10497 9959c-1398,-1522 -2775,-3054 -4170,-4577 -681,-744 -1115,-893 -1403,-802 -287,91 -429,423 -550,1443 -240,2022 -499,4053 -735,6074 -126,1077 785,1232 1511,754 2257,-1484 1808,-1333 4509,-1423 1017,-34 1661,-574 838,-1469z"/>
+  </g>
+ </g>
+</svg>

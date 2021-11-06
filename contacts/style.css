@@ -1,0 +1,97 @@
+main {
+  display: flex;
+  justify-content: center;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+}
+a {
+  color: inherit;
+}
+body {
+  min-height: 90vh;
+}
+footer {
+  /* position: absolute; */
+  bottom: 20px;
+}
+.telephone_img {
+  flex-basis: 50%;
+  width: 50%;
+  /* margin: 0 auto;
+  max-width: 50%; */
+}
+.contacts_wrapper {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+  font-family: "Rubik Mono One", sans-serif;
+  /* font-weight: bold; */
+  font-size: 22px;
+  line-height: 2.5rem;
+}
+.block_title,
+.address {
+  /* font-family: "Rubik Mono One", sans-serif; */
+}
+.telegram_img,
+.golub_img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.golub_img {
+  width: 50px;
+  height: 50px;
+}
+.matches {
+  width: 60px;
+  margin-right: 10px;
+}
+.telegram,
+.email,
+.telephone_number {
+  display: flex;
+  align-items: center;
+}
+h2 {
+  padding: 0;
+  padding-bottom: 15px;
+}
+.wrapper_main {
+  min-height: 90vh;
+}
+.map {
+  margin-top: 40px;
+  text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+  main {
+    flex-direction: column;
+  }
+  .telephone_img,
+  .contacts_wrapper {
+    width: 100%;
+  }
+  .contacts_wrapper {
+    align-items: center;
+    margin: 40px 0px;
+  }
+  footer {
+    /* position: absolute; */
+    /* bottom: 20px; */
+    padding-bottom: 40px;
+    background-color: #334;
+    color: white;
+  }
+  .footer_link {
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.365);
+    font-size: 12px;
+  }
+  .start_title {
+    margin-top: 20px;
+  }
+}
