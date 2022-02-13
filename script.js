@@ -63,19 +63,3 @@ window.onload = function () {
 
 //current year for footer
 document.getElementById("current_year").innerText = new Date().getFullYear();
-
-//localstorage
-window.localStorage.setItem("c", "30179");
-window.localStorage.setItem("t", "7oOKYbRIfXJWXpbzYv8omGc_XlnadDo");
-
-const o = {
-  name: ["vass"],
-  age: 31,
-  online: true,
-};
-window.localStorage.setItem("obj", JSON.stringify(o));
-const ob = JSON.parse(window.localStorage.getItem("obj"));
-const p = { price: 200 };
-ob.name.push("new");
-Object.assign(ob, { age: 20 });
-console.log(ob);
